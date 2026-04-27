@@ -91,7 +91,7 @@ jupyter notebook
 
 ---
 
-## Skills Demonstrated
+## Topic Covered
 
 - Python
 - pandas
